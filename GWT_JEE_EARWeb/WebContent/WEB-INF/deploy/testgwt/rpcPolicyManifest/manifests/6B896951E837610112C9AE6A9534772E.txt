@@ -1,0 +1,2 @@
+serviceClass: com.prodyna.gwt.pac.client.GreetingService
+path: 9F92F5E8DF945BD3960F3A2A91F29D3F.gwt.rpc
