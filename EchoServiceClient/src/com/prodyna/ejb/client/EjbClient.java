@@ -18,8 +18,6 @@ public class EjbClient {
 	public void connect() {
 		try {
 
-			// InputStream io =
-			// this.getClass().getClassLoader().getResourceAsStream("jboss-ejb-client.properties");
 
 			final Properties env = new Properties();
 
