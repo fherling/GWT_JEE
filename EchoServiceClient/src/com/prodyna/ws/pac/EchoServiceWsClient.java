@@ -39,7 +39,7 @@ public class EchoServiceWsClient {
 			data.put("KEY", "VALUE");
 
 			for (int i = 0; i < 10; i++) {
-//				System.out.println("\n" + halloWelt.echo("Ein Test" + i));
+				System.out.println("\n" + halloWelt.echo("Ein Test" + i));
 				obj.setName("" + i);
 				obj.getDaten().add(""+i);
 				obj.getNochmehrDaten().put("KEY" + i, "VALUE" + i );
